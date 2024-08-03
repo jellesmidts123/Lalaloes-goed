@@ -1597,8 +1597,7 @@ background-color: #ffffff;
   }
 
   .telefoon {
-    font-family: Serif;
-    font-size: 70px; /* Optional: Change font size */
+    font-size: 80px; /* Optional: Change font size */
     font-weight: bold; /* Optional: Make it bold */
     color: red; /* Optional: Change the color */
     padding: 190px;
@@ -1645,7 +1644,7 @@ background-color: #ffffff;
 
   .kinderfeestjefont {
     font-family: Serif;
-    font-size: 80px; /* Optional: Change font size */
+    font-size: 67px; /* Optional: Change font size */
     font-weight: bold; /* Optional: Make it bold */
     color: red; /* Optional: Change the color */
     padding: 10px;
