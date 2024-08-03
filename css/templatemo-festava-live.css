@@ -1644,7 +1644,7 @@ background-color: #ffffff;
 
   .kinderfeestjefont {
     font-family: Serif;
-    font-size: 67px; /* Optional: Change font size */
+    font-size: 60px; /* Optional: Change font size */
     font-weight: bold; /* Optional: Make it bold */
     color: red; /* Optional: Change the color */
     padding: 10px;
@@ -1673,6 +1673,7 @@ background-color: #ffffff;
 
   .services-info2{
     padding-left:   0px;
+    padding-right: 10px;
   }
 
   .margintest{
