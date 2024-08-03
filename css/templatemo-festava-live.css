@@ -167,7 +167,7 @@ strong {
   display: flex;
   align-items: center;
   justify-content: center;
-  padding-top: 50px;
+  padding-top: -20px;
 }
 
 
@@ -253,7 +253,8 @@ strong {
 
 }
 .services-info100{
-  padding-top: 30px;
+  padding-top: 0px;
+  padding-bottom: 40px;
 }
 
 .outnow {
@@ -417,6 +418,11 @@ strong {
 .section-padding {
   padding-top: 50px;
   padding-bottom: 150px;
+}
+
+.section-paddingmuziek {
+  padding-top: 150px;
+  padding-bottom: 80px;
 }
 
 
