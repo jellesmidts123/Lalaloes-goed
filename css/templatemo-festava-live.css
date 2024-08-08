@@ -13,12 +13,12 @@ https://templatemo.com/tm-583-festava-live
 :root {
   --white-color:                  #ffffff;
   --primary-color:                #ffffff;
-  --secondary-color:              #e5e5e5;
+  --secondary-color:              #ffffff;
   --orange-color:              #ff9500;
   --secondary2-color:              #bb04c8;
   --section-bg-color:             #f0f8ff;
   --custom-btn-bg-color:          #ffffff;
-  --custom-btn-bg-hover-color:    #df07ee;
+  --custom-btn-bg-hover-color:    #ff9500;
   --dark-color:                   #000000;
   --p-color:                      #717275;
   --border-color:                 #7fffd4;
@@ -1316,6 +1316,7 @@ strong {
   background-image: url('../images/feestje.png');
   border-radius: 25px;
   padding: 225px 0;
+  padding-right: 10px;
   position: relative;
   margin-bottom: 87px;
 
