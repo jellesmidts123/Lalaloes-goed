@@ -487,6 +487,7 @@ strong {
 .socials{
   padding-top: 30px;
   display: inline-block; /* Make logos inline-block elements */
+ 
 }
 
 
@@ -1574,6 +1575,9 @@ background-color: #ffffff;
 /*---------------------------------------
   RESPONSIVE STYLES               
 -----------------------------------------*/
+
+
+
 @media screen and (max-width: 991px) {
   h1 {
     font-size: 62px;
@@ -1627,7 +1631,10 @@ background-color: #ffffff;
   .section-padding {
     padding-top: 50px;
     padding-bottom: 50px;
+
   }
+
+ 
 
   .section-paddingtest {
     padding-top: 0px;
@@ -1789,6 +1796,8 @@ background-color: #ffffff;
     font-size: 14px;
     padding: 10px 20px;
   }
+
+ 
 }
 
 @media screen and (max-width: 480px) {
@@ -1796,6 +1805,21 @@ background-color: #ffffff;
     font-size: 52px;
   }
 
+  .services-info{
+    width: 350px;
+  }
+
+
+.special-word100 {
+  font-family: Serif;
+  font-size: 60px; /* Optional: Change font size */
+  font-weight: bold; /* Optional: Make it bold */
+  color: red; /* Optional: Change the color */
+  padding: 10px;
+  margin-top: 130px;
+}
+
+  
   h2 {
     font-size: 28px;
   }
@@ -1811,4 +1835,6 @@ background-color: #ffffff;
   h5 {
     font-size: 20px;
   }
+  
+ 
 }
