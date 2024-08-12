@@ -858,7 +858,7 @@ strong {
 
 .muziekpagina {
   background-image: url('../images/design11.png');
-  background-color: #704010;
+  background-color: #ff9500;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
@@ -1616,7 +1616,18 @@ background-color: #ffffff;
     font-weight: bold; /* Optional: Make it bold */
     color: red; /* Optional: Change the color */
     padding: 190px;
-    margin-top: -90px;
+    margin-top: -190px;
+    padding-bottom: 40px;
+    padding-left: 0px;
+    padding-right: 10px;
+  }
+
+  .mc {
+    font-size: 80px; /* Optional: Change font size */
+    font-weight: bold; /* Optional: Make it bold */
+    color: red; /* Optional: Change the color */
+    padding: 190px;
+    margin-top: -290px;
     padding-bottom: 40px;
     padding-left: 0px;
     padding-right: 10px;
@@ -1672,7 +1683,7 @@ background-color: #ffffff;
 
   .about-sectiono {
     background-image: url('../images/phone3.png');
-    background-color: #704010;
+    background-color: #36A9E1;
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
@@ -1729,7 +1740,7 @@ background-color: #ffffff;
 
   .muziekpagina {
     background-image: url('../images/tel.png');
-    background-color: #704010;
+    background-color: #ff9500;
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
@@ -1738,6 +1749,7 @@ background-color: #ffffff;
   .services-info2{
     padding-left:   0px;
     padding-right: 10px;
+    margin-top: -50px;
   }
 
   .services-info{
@@ -1750,6 +1762,7 @@ background-color: #ffffff;
     padding-left:   0px;
     padding-right: 10px;
     width: 360px;
+    margin-top: -80px;
   }
 
   .margintest{
