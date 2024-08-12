@@ -451,15 +451,11 @@ strong {
 
 .section-paddingo {
   padding-top: 10px;
-  padding-bottom: 200px;
+  padding-bottom: 100px;
   text-align: center;
 }
 
-.section-paddingo0 {
-  padding-top: 60px;
-  padding-bottom: 450px;
-  text-align: center;
-}
+
 
 .section-padding69 {
   padding-top: 150px;
@@ -1642,11 +1638,15 @@ background-color: #ffffff;
 
   }
 
-  .section-paddingo0 {
-    padding-top: 50px;
-    padding-bottom: 400px;
-    margin-bottom: -200px;
+  .about-section {  
+    background-image: url('../images/phone.png');
+    background-color: #ffffff;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
   }
+
+
   .about-section9 {
     background-image: url('../images/design2.png'); 
     background-color: #ffffff;
@@ -1655,13 +1655,55 @@ background-color: #ffffff;
     position: relative;
   }
 
+  .about-section101 {  
+    background-image: url('../images/phone2.png');
+    background-color: #ffffff;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  
+  }
+
+  .section-padding {
+    padding-top: 50px;
+    padding-bottom: 460px;
+
+  }
+
+  .about-sectiono {
+    background-image: url('../images/phone3.png');
+    background-color: #704010;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+
+  
+  .section-paddingo {
+    padding-top: 50px;
+    padding-bottom: 460px;
+
+  }
+
+  .section-paddingmuziek {
+    padding-top: 50px;
+    padding-bottom: 60px;
+  }
+
+
   .about-section10 {
-    background-image: url('../images/fototest.png');
+    background-image: url('../images/phone1.png');
     background-color: #ffffff;
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
     padding-left: 0px;
+  }
+
+  .section-padding9 {
+    padding-top: 50px;
+    padding-bottom: 460px;
+
   }
 
   .kinderfeestjefont {
@@ -1743,11 +1785,7 @@ background-color: #ffffff;
     
   }
 
-  .section-padding9 {
-    padding-top: 50px;
-    padding-bottom: 130px;
 
-  }
   
   .navbar {
     background-color: var(--blue-color);
