@@ -1678,6 +1678,18 @@ background-color: #ffffff;
 
   }
 
+  .line-box2 {
+    border: 2px solid #ffffff; /* 2px solid border with a custom color */
+    padding:  80px; /* Increase padding to create more space */
+    margin: 40px auto 0px; /* Lower the box by increasing top margin */
+    width: 380px; /* Width of the div */
+    height: 80px; /* Height adjusts to the content */
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1); /* Optional: add a box shadow for effect */
+    border-radius: 2px; /* Optional: add rounded corners */
+  
+  }
+  
+
  
 
   .section-paddingtest {
@@ -1793,7 +1805,7 @@ background-color: #ffffff;
   
   .kinderfeestjefont100 {
     font-family: Serif;
-    font-size: 70px; /* Optional: Change font size */
+    font-size: 60px; /* Optional: Change font size */
     font-weight: bold; /* Optional: Make it bold */
     color: red; /* Optional: Change the color */
     padding: 10px;
