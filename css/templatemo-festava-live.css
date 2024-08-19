@@ -1303,6 +1303,11 @@ strong {
   Membership Section
 -----------------------*/
 
+.socialscheck{
+  margin-left: 1100px;
+  margin-top: -50px;
+}
+
 
 
 .membership-section {
@@ -1697,6 +1702,11 @@ background-color: #ffffff;
     position: relative;
   }
 
+  .services-info100{
+    padding-top: 0px;
+    padding-bottom: 0px;
+  }
+
 
   .about-section9 {
     background-image: url('../images/design2.png'); 
@@ -1731,13 +1741,23 @@ background-color: #ffffff;
 
   
   .section-paddingo {
-    padding-top: 50px;
-    padding-bottom: 460px;
+    padding-top: 0px;
+    padding-bottom: 420px;
 
   }
 
+
+
+
+  .socialscheck{
+    margin-left: -30px;
+  }
+
+
+
+
   .section-paddingmuziek {
-    padding-top: 50px;
+    padding-top: 0px;
     padding-bottom: 60px;
   }
 
@@ -1933,6 +1953,14 @@ background-color: #ffffff;
   margin-top: 130px;
 }
 
+.special-word69 {
+  font-family: Serif;
+  font-size: 60px; /* Optional: Change font size */
+  font-weight: bold; /* Optional: Make it bold */
+  color: red; /* Optional: Change the color */
+  padding: 10px;
+  margin-top: 0px;
+}
 
 .socials{
   padding-top: 10px;
