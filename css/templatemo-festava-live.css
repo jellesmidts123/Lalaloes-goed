@@ -161,6 +161,7 @@ strong {
   display: flex;
   align-items: center;
   justify-content: center;
+
 }
 
 .container3 {
@@ -428,6 +429,10 @@ strong {
 /*---------------------------------------
   SECTION               
 -----------------------------------------*/
+.header-padding {
+  padding-top: 50px;
+  padding-bottom: 700px;
+}
 .section-padding {
   padding-top: 50px;
   padding-bottom: 150px;
@@ -805,6 +810,14 @@ strong {
 /*---------------------------------------
   ABOUT              
 -----------------------------------------*/
+
+.headersection {  
+  background-image: url('../images/nieuweniwue.png');
+  background-color: #F190BB;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
 .about-section {  
   background-image: url('../images/test.png');
   background-color: #ffffff;
@@ -1514,6 +1527,11 @@ background-color: #ffffff;
 
 }
 
+.header{
+  height: 1080;
+  width: 1920px;
+}
+
 /*---------------------------------------
   SOCIAL ICON               
 -----------------------------------------*/
@@ -1530,6 +1548,7 @@ background-color: #ffffff;
   list-style: none;
   display: inline-block;
     vertical-align: top;
+
 }
 
 
@@ -1611,6 +1630,8 @@ background-color: #ffffff;
     padding-right: 10px;
   }
 
+
+
   .telefoon {
     font-size: 80px; /* Optional: Change font size */
     font-weight: bold; /* Optional: Make it bold */
@@ -1618,6 +1639,17 @@ background-color: #ffffff;
     padding: 190px;
     margin-top: -190px;
     padding-bottom: 40px;
+    padding-left: 0px;
+    padding-right: 10px;
+  }
+
+  .telefoon200 {
+    font-size: 70px; /* Optional: Change font size */
+    font-weight: bold; /* Optional: Make it bold */
+    color: red; /* Optional: Change the color */
+    padding: 190px;
+    margin-top: -190px;
+    padding-bottom: 20px;
     padding-left: 0px;
     padding-right: 10px;
   }
@@ -1632,7 +1664,7 @@ background-color: #ffffff;
     padding-left: 0px;
     padding-right: 10px;
   }
-
+  
 
 
   .section-padding {
@@ -1647,6 +1679,14 @@ background-color: #ffffff;
     padding-top: 0px;
     padding-bottom: 200px;
 
+  }
+
+  .headersection {  
+    background-image: url('../images/headertel.png');
+    background-color: #ffffff;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
   }
 
   .about-section {  
@@ -1730,6 +1770,20 @@ background-color: #ffffff;
   }
 
   
+  .kinderfeestjefont100 {
+    font-family: Serif;
+    font-size: 70px; /* Optional: Change font size */
+    font-weight: bold; /* Optional: Make it bold */
+    color: red; /* Optional: Change the color */
+    padding: 10px;
+    margin-top: 50px;
+    padding-bottom: 40px;
+    margin-right: -0px;
+ 
+  }
+
+  
+  
 
   .container3 {
     height: 100px;
@@ -1798,6 +1852,14 @@ background-color: #ffffff;
     padding-bottom: 150px;
     
   }
+
+  .header-padding{
+    padding-top: 50px;
+    padding-bottom: 500px;
+
+  }
+
+ 
 
 
   
@@ -1871,8 +1933,9 @@ background-color: #ffffff;
   margin-top: 130px;
 }
 
+
 .socials{
-  padding-top: 0px;
+  padding-top: 10px;
   display: inline-block; /* Make logos inline-block elements */
   margin: 10px;
   padding-bottom: 50px;
