@@ -204,6 +204,15 @@ strong {
   margin-top: 50px;
 }
 
+.special-word69 {
+  font-family: Serif;
+  font-size: 80px; /* Optional: Change font size */
+  font-weight: bold; /* Optional: Make it bold */
+  color: red; /* Optional: Change the color */
+  padding: 10px;
+  margin-top: 50px;
+}
+
 .special-word100 {
   font-family: Serif;
   font-size: 80px; /* Optional: Change font size */
@@ -1810,7 +1819,7 @@ background-color: #ffffff;
     color: red; /* Optional: Change the color */
     padding: 10px;
     margin-top: 50px;
-    padding-bottom: 40px;
+    padding-bottom: 20px;
     margin-right: -0px;
  
   }
