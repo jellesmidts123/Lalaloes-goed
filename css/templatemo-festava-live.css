@@ -204,6 +204,11 @@ strong {
   margin-top: 50px;
 }
 
+.paddingshot{
+  padding-top: 20px;
+  margin-bottom: -50px;
+}
+
 .special-word69 {
   font-family: Serif;
   font-size: 80px; /* Optional: Change font size */
@@ -264,7 +269,7 @@ strong {
 
 }
 .services-info100{
-  padding-top: 0px;
+  padding-top: 40px;
   padding-bottom: 40px;
 }
 
@@ -449,7 +454,7 @@ strong {
 
 .section-paddingmuziek {
   padding-top: 50px;
-  padding-bottom: 80px;
+  padding-bottom: 190px;
 }
 
 
